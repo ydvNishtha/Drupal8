@@ -23,6 +23,12 @@ PHP 7. X higher version
 # Install Drupal 8
 Do the necessary changes
 
+Create Database 
+
+Database name : drupal
+Username : root
+Password : drupal
+
 Install OpCache.dll
 
 Install Dependencies Modules
