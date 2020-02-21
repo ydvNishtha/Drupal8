@@ -17,10 +17,10 @@ Example :
 ## Quick Start
 
 ```bash
-# Install dependencies
+# Install LAMP
 PHP 7. X higher version
 
-# Install Drupal 
+# Install Drupal 8
 Do the necessary changes
 
 Install OpCache.dll
@@ -28,6 +28,12 @@ Install OpCache.dll
 Install Dependencies Modules
  # Simple hierarchical select
  # Client-side hierarchical select
+ 
+ Make Changes in PHP.ini file For example
+ 
+max_execution_time = 600;
+max_input_time = 120;
+memory_limit = 500M;
 
 
 
